@@ -1,3 +1,1 @@
-change-diego-test-6-25-17
-
-test
+export DIEGO_CELL_INSTANCES=6
